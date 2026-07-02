@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "channel": "stable",
-  "download": "",
+  "download": "https://github.com/spectra-lab1/spectra-updates/releases/download/v1.0.0/Spectra-v1.0.0-x64.exe",
   "releaseNotes": [
     "Initial Stable Release"
   ]
