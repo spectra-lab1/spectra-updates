@@ -2,7 +2,12 @@
   "version": "1.2.1",
   "channel": "stable",
   "download": "https://github.com/spectra-lab1/spectra-updates/releases/download/v1.2.1/Spectra-v1.2.1-x64.exe",
-  "releaseNotes": [
-    "Initial Stable Release"
+  "changelog": [
+    "Yeni Backup & Rollback sistemi eklendi.",
+    "RAM Temizleyici tamamen yeniden geliştirildi.",
+    "Deneysel Optimizasyonlar sayfası eklendi.",
+    "Sidebar yeniden tasarlandı.",
+    "Eski Windows 11 sağ tık menüsü düzeltildi.",
+    "Performans ve kararlılık iyileştirildi."
   ]
 }
