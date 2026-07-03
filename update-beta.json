@@ -1,8 +1,8 @@
 {
   "version": "1.1.0-beta1",
   "channel": "beta",
-  "download": "",
-  "releaseNotes": [
+  "download": "https://github.com/spectra-lab1/spectra-updates/releases/download/v1.2.2/Spectra-v1.2.2-x64.exe",
+  "changelog": [
     "Beta testing"
   ]
 }
